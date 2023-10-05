@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download Page</title>
+</head>
+<body>
+    <h1>Click the link to download your file:</h1>
+    <a href="https://www.example.com/path-to-your-file/your-file.ext" download>Download Your File</a>
+</body>
+</html>
